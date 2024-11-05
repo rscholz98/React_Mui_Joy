@@ -24,3 +24,7 @@ npm -v 10.8.2
 # Nginx
 
 sudo apt install nginx -y
+
+# Build APP
+
+npm run build
